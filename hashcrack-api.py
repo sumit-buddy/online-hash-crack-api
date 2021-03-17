@@ -1,7 +1,7 @@
 import requests
 import re
 from pathlib import Path
-import os.path
+
 #might not work on cmd
 class fontcolors:
     BLUE = '\x1b[1;34;40m'
