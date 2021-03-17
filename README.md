@@ -1,6 +1,6 @@
 # online-hash-crack-api
 
-##Install:
+## Installation:
 ```
 git clone https://github.com/sumit-buddy/online-hash-crack-api.git
 
