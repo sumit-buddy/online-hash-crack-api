@@ -1,2 +1,10 @@
 # online-hash-crack-api
-Use onlinehashcrack.com api with python to crack rar,zip,cap,docx etc...
+
+##Install:
+```
+git clone https://github.com/sumit-buddy/online-hash-crack-api.git
+
+pip3 install requests
+
+python3 hashcrack-api.py
+```
